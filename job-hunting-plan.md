@@ -1,5 +1,13 @@
 ## Jobhunting Plan - 11/04/16-22/04/16
 
+## Monday 11/04/15
+
+Write application to CGI java developer in international satellite projects post.
+
+Look up astronomy related events around London.
+
+Begin set up for Pathfind Character sheet project, research testing frameworks in Java.
+
 ### What job do I want to have?
 
 * Astronomy related jobs.
