@@ -2,11 +2,13 @@
 
 ## Monday 11/04/16
 
-Write application to CGI java developer in international satellite projects post.
+* Finish Github CV.
 
-Look up astronomy related events around London.
+* Write application to CGI java developer in international satellite projects post.
 
-Begin set up for Pathfind Character sheet project, research testing frameworks in Java.
+* Look up astronomy related events around London.
+
+* Begin set up for Pathfind Character sheet project, research testing frameworks in Java.
 
 ### What job do I want to have?
 
