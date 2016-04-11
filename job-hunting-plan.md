@@ -10,6 +10,8 @@
 
 * Begin set up for Pathfind Character sheet project, research testing frameworks in Java.
 
+* Plan for tomorrow and Wednesday
+
 ### What job do I want to have?
 
 * Astronomy related jobs.
