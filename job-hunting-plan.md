@@ -1,5 +1,11 @@
 ## Jobhunting Plan - 11/04/16-22/04/16
 
+## Tuesday 12/04/16
+
+* Finish Github CV.
+
+* Check for events on Meetup.
+
 ## Monday 11/04/16
 
 * Finish Github CV.
