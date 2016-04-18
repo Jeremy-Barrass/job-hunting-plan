@@ -1,5 +1,20 @@
 ## Jobhunting Plan - 11/04/16-22/04/16
 
+## Tuesday 19/04/16
+
+* Do Capco Codility test.
+
+* Begin set up for Pathfinder Character sheet project, research testing frameworks in Java.
+
+* Checkout Airbus Defence and Space.
+
+## Friday 15/04/16
+
+* Start Makers Capco tech test.
+
+## Thursday 14/04/16
+
+
 ## Tuesday 12/04/16
 
 * Finish Github CV.
@@ -14,7 +29,6 @@
 
 * Look up astronomy related events around London.
 
-* Begin set up for Pathfind Character sheet project, research testing frameworks in Java.
 
 * Plan for tomorrow and Wednesday
 
