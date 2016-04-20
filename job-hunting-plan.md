@@ -1,5 +1,17 @@
 ## Jobhunting Plan - 11/04/16-22/04/16
 
+## Wednesday 20/04/16
+
+* Set up file structure for PCS, get first passing test.
+
+* Research events to go network at.
+
+* Look for jobs in SF.
+
+* Run laundry.
+
+* Play DA:O a bit more.
+
 ## Tuesday 19/04/16
 
 * Do Capco Codility test.
